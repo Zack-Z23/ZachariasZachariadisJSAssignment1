@@ -1,0 +1,54 @@
+@import "base.css";
+#button1 {
+    margin-top: 30px;
+    width: 250px;
+    height: 45px;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #fff;
+    background-color: #1472ff;
+    cursor: pointer;
+}
+
+#button1:hover{
+    background-color: #287eff;
+}
+
+#button2 {
+    margin-top: 30px;
+    width: 250px;
+    height: 45px;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #fff;
+    background-color: #1472ff;
+    cursor: pointer;
+}
+
+#button2:hover{
+    background-color: #287eff;
+} 
+
+input[type ="text"]{
+    width: 200px;
+    height: 45px;
+    background-color: #f4f5f6;
+    padding:  0 15px;
+    margin-right: 15px;
+    border-radius: 4px;
+    
+}
+.dark{
+    background-color: rgb(41, 40, 40);
+    color: white;
+}
+#mode{
+    margin-top: 30px;
+    width: 250px;
+    height: 45px;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #fff;
+    background-color: #347aa8;
+    cursor: pointer;
+}
